@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+@theme {
+  --color-breakwhite: #FAF4EA;
+  --color-honey: #EBB912;
+  --color-bee: #FED920;
+  --color-tree: #6C3F26;
+  --color-grass: #975635; 
+}
